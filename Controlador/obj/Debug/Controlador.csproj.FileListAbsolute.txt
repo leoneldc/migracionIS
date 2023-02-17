@@ -1,0 +1,6 @@
+C:\Users\leone\OneDrive\Escritorio\UNI\migracion\Controlador\bin\Debug\Controlador.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\migracion\Controlador\bin\Debug\Controlador.pdb
+C:\Users\leone\OneDrive\Escritorio\UNI\migracion\Controlador\obj\Debug\Controlador.csproj.AssemblyReference.cache
+C:\Users\leone\OneDrive\Escritorio\UNI\migracion\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UNI\migracion\Controlador\obj\Debug\Controlador.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\migracion\Controlador\obj\Debug\Controlador.pdb
