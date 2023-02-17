@@ -1,0 +1,9 @@
+C:\Users\leone\OneDrive\Escritorio\UNI\migracion\Vista\bin\Debug\Vista.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\migracion\Vista\bin\Debug\Vista.pdb
+C:\Users\leone\OneDrive\Escritorio\UNI\migracion\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\leone\OneDrive\Escritorio\UNI\migracion\Vista\obj\Debug\Vista.Contenedor.resources
+C:\Users\leone\OneDrive\Escritorio\UNI\migracion\Vista\obj\Debug\Vista.Login.resources
+C:\Users\leone\OneDrive\Escritorio\UNI\migracion\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\leone\OneDrive\Escritorio\UNI\migracion\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UNI\migracion\Vista\obj\Debug\Vista.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\migracion\Vista\obj\Debug\Vista.pdb
