@@ -1,0 +1,9 @@
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Prueba\Prototipo\CapaVista\bin\Debug\CapaVista.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Prueba\Prototipo\CapaVista\bin\Debug\CapaVista.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Prueba\Prototipo\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Prueba\Prototipo\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Prueba\Prototipo\CapaVista\obj\Debug\CapaVista.RegistroInformación.resources
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Prueba\Prototipo\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Prueba\Prototipo\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Prueba\Prototipo\CapaVista\obj\Debug\CapaVista.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Prueba\Prototipo\CapaVista\obj\Debug\CapaVista.pdb
