@@ -17,3 +17,6 @@ D:\Luis David\UMG\Ingenieria de S\Proyecto de Componente\migracionIS\Vista\obj\D
 D:\Luis David\UMG\Ingenieria de S\Proyecto de Componente\migracionIS\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
 D:\Luis David\UMG\Ingenieria de S\Proyecto de Componente\migracionIS\Vista\obj\Debug\Vista.dll
 D:\Luis David\UMG\Ingenieria de S\Proyecto de Componente\migracionIS\Vista\obj\Debug\Vista.pdb
+C:\Users\leone\OneDrive\Escritorio\UNI\migracion\Vista\obj\Debug\Vista.Registro.resources
+C:\Users\leone\OneDrive\Escritorio\UNI\migracion\Vista\obj\Debug\Vista.Entrega_Pasaporte.resources
+C:\Users\leone\OneDrive\Escritorio\UNI\migracion\Vista\obj\Debug\Vista.Properties.Resources.resources

@@ -21,5 +21,24 @@ namespace Vista
         {
             System.Windows.Forms.Application.ExitThread();
         }
+
+        private void entregaDePasaporteToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Entrega_Pasaporte entrega_pasaporte_child = new Entrega_Pasaporte();
+            entrega_pasaporte_child.MdiParent = this;
+            entrega_pasaporte_child.Show();
+        }
+
+        private void Contenedor_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            System.Windows.Forms.Application.ExitThread();
+        }
+
+        private void registroDeInformaciónToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Registro registro_child = new Registro();
+            registro_child.MdiParent = this;
+            registro_child.Show();
+        }
     }
 }
