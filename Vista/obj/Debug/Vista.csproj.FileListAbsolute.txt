@@ -7,3 +7,13 @@ C:\Users\leone\OneDrive\Escritorio\UNI\migracion\Vista\obj\Debug\Vista.csproj.Ge
 C:\Users\leone\OneDrive\Escritorio\UNI\migracion\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
 C:\Users\leone\OneDrive\Escritorio\UNI\migracion\Vista\obj\Debug\Vista.dll
 C:\Users\leone\OneDrive\Escritorio\UNI\migracion\Vista\obj\Debug\Vista.pdb
+D:\Luis David\UMG\Ingenieria de S\Proyecto de Componente\migracionIS\Vista\bin\Debug\Vista.dll
+D:\Luis David\UMG\Ingenieria de S\Proyecto de Componente\migracionIS\Vista\bin\Debug\Vista.pdb
+D:\Luis David\UMG\Ingenieria de S\Proyecto de Componente\migracionIS\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+D:\Luis David\UMG\Ingenieria de S\Proyecto de Componente\migracionIS\Vista\obj\Debug\Vista.Contenedor.resources
+D:\Luis David\UMG\Ingenieria de S\Proyecto de Componente\migracionIS\Vista\obj\Debug\Vista.Login.resources
+D:\Luis David\UMG\Ingenieria de S\Proyecto de Componente\migracionIS\Vista\obj\Debug\Vista.Registro.resources
+D:\Luis David\UMG\Ingenieria de S\Proyecto de Componente\migracionIS\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+D:\Luis David\UMG\Ingenieria de S\Proyecto de Componente\migracionIS\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+D:\Luis David\UMG\Ingenieria de S\Proyecto de Componente\migracionIS\Vista\obj\Debug\Vista.dll
+D:\Luis David\UMG\Ingenieria de S\Proyecto de Componente\migracionIS\Vista\obj\Debug\Vista.pdb
